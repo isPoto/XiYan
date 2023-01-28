@@ -1863,7 +1863,7 @@ preset_keys:
   Shift1: {functional: false, label: ☩, preview: ☩, send: Shift_L, shift_lock: click}  # 英文状态一次锁定
   Return: {label: Enter, preview: ↩, send: Return}
   Return1: {label: Enter, repeatable: true, preview: ↩, send: Return}
-  Hide: {label: ﹀, send: BACK}
+  Hide: {label: ☠️, send: BACK}
   Hide1: {text: "{Hide}{K_back}", label: ﹀, send: BACK}
   BackSpace: {label: ⌫, preview: ⌫, repeatable: true, send: BackSpace}
   BackSpace1: {label: ⌫, preview: ⌫, repeatable: true, functional: false, send: BackSpace}
